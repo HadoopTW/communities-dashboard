@@ -1,4 +1,5 @@
-= 如何使用這個範例 =
+如何使用這個範例
+================
 
 1. 請登入 Facebook 帳號，前往 https://developers.facebook.com/tools/explorer/ 取得 access_token，並填入 config 檔中
 2. 這個範例是取得以下幾個社群粉絲團的會員列表，並將資料整理成 CSV 格式。因此，您將需要「加入」想要研究的粉絲團。
