@@ -1,5 +1,5 @@
 #!/bin/bash
-export FB_EMAIL="jazzwang.tw@gmail.com"
+export FB_EMAIL=""
 export FB_PASS=""
 python HadoopTWFBMembers.py 
 python parse_hadoop-tw_fb_members.py
